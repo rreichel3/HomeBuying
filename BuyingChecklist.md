@@ -5,72 +5,72 @@
 
 ### Engineering Considerations
 
-- [ ] Low points in yard (Drainage issues) - Can be notified by dead grass
+- Low points in yard (Drainage issues) - Can be notified by dead grass
 
-- [ ] Peek in crawlspace
+- Peek in crawlspace
 
-- [ ] Should be wells around the vents of the crawlspace
+- Should be wells around the vents of the crawlspace
 
-- [ ] Foundational cracking?
+- Foundational cracking?
 
-- [ ] Look around hoses / faucets
+- Look around hoses / faucets
 
-- [ ] Tree health?
+- Tree health?
 
-- [ ] Landscaping
+- Landscaping
 
-- [ ] Window caulking?
+- Window caulking?
 
-- [ ] Condition of downspouts
+- Condition of downspouts
 
-- [ ] Condition of window frames
+- Condition of window frames
 
-- [ ] Condition of the roof
+- Condition of the roof
 
-- [ ] Condition of the gutters
+- Condition of the gutters
 
-- [ ] Condition of siding
+- Condition of siding
 
-- [ ] Bugs?
+- Bugs?
 
-- [ ] Porch
+- Porch
 
 ### Practical Considerations
 
-- [ ] Is the garage usable?
+- Is the garage usable?
 
 ## Indoors
 
 ### Quesitons to Ask
 
-- [ ] Do appliances come with the home?
+- Do appliances come with the home?
 
-- [ ] Average Utilities?
+- Average Utilities?
 
-- [ ] HOA?
+- HOA?
 
-- [ ] How is cell coverage?
+- How is cell coverage?
 
 ### Engineering Considerations
-- [ ] Settling Cracks
+- Settling Cracks
 
-- [ ] Water Damage
+- Water Damage
 
-- [ ] Mold in ductwork areas
+- Mold in ductwork areas
 
-- [ ] Do all lights work?
+- Do all lights work?
 
-- [ ] Spot check outlets
+- Spot check outlets
 
-- [ ] Check all faucets
+- Check all faucets
 
-- [ ] Check under sinks
+- Check under sinks
 
-- [ ] Floor condition
+- Floor condition
 
-- [ ] Age of HVAC?
+- Age of HVAC?
 
-- [ ] Electrical Panel
+- Electrical Panel
 
 ### Age Specific
 - Polybutylene
@@ -80,8 +80,8 @@
 
 Check Online
 
-- [ ] Property Tax Bill
+- Property Tax Bill
 
-- [ ] FEMA Flood Maps
+- FEMA Flood Maps
 
-- [ ] What kinds of internet service are offered?
+- What kinds of internet service are offered?
